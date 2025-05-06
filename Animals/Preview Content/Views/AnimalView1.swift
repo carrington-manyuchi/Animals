@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct c: View {
+struct AnimalView1: View {
     @StateObject var animalViewModel: AnimalViewModel = AnimalViewModel()
     @StateObject var languageViewModel: LanguageViewModel = LanguageViewModel()
     
