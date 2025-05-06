@@ -8,7 +8,7 @@
 import Foundation
 
 enum Flag: String {
-    case Spain = "ES"
-    case France = "FR"
-    case UnitedStates = "US"
+    case Spain = "es"
+    case France = "fr"
+    case UnitedStates = "us"
 }
